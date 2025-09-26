@@ -5,3 +5,4 @@ description = "A local-first AI engineering agent that learns from your codebase
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# drop an unused branch
